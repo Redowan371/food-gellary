@@ -621,4 +621,12 @@ Responsive
     .footer{
         text-align: center;
     }
+    .header .logo{
+    font-size: 18px;
+    }
+    .header .icons div{
+    height: 26px;
+    width: 26px;
+    line-height: 26px;
+}
 }
